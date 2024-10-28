@@ -1,0 +1,1 @@
+web: gunicorn mentor_mentee.wsgi --log-file -
